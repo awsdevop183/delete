@@ -5,3 +5,9 @@ h1 {
 .red {
     color: red;
 }
+.box {
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+    
+}
